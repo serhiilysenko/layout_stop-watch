@@ -1,0 +1,2 @@
+@keyframes rotate{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}.watch__minute{animation-name:rotate;animation-iteration-count:infinite;z-index:1;height:100px;background-color:#00f;animation-duration:3600s}.watch__minute,.watch__second{position:absolute;bottom:50%;width:10px;border-radius:5px;transform-origin:bottom center}.watch__second{animation-name:rotate;animation-iteration-count:infinite;height:150px;background-color:#ff0;animation-duration:60s}body{justify-content:center;display:flex;margin:0}
+/*# sourceMappingURL=main.138928da.css.map */
